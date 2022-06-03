@@ -1,15 +1,14 @@
-## LAB 6
+## LAB 7
 
 ```markdown
 Lab Goals and Outcomes:
 
-1.  Join GitHub and work through Introduction to GitHub course
-2.  Create lab file
-3.  Classes overview
-4.  Create and test Book class
-5.  Create and test Library class
-6.  Add at least two more books to the library
-7.  Add ISBN and a delete book method
+1.  Create your own GitHub organization for the CIT Minor
+2.  Create your first GitHub repository
+3.  Clone your GitHub repository to your local system
+4.  Create lab JavaScript file, and initialize folder as a Node.js folder
+5.  Update and commit lab JavaScript file to practice with error handling
+6.  Push your changes to GitHub
 
 ```
 
@@ -19,7 +18,7 @@ Lab Goals and Outcomes:
 - Terminal
 
 ### What I Learned:
-In this lab I was able to go through a short GitHub course to get familiar with the language and site. After that, I created a digital book libary in VS Code using *class*, *counstructor*, and *this.*. This digital library allowed me to add, delete, and count books and took inputs such as book name, author, date published, and ISBN. 
+In this lab I was able to create my own GitHub organization and repository. After creating my repository, I cloned it from GitHub to my local system using Terminal. Next I created a file through terminal initialized it and added it to git, then I experimented with *try..catch..finally, throw* and pushed my local changes to my GitHub repo.
 
 ### Files from Lab 6!
 
