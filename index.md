@@ -20,7 +20,7 @@ Lab Goals and Outcomes:
 ### What I Learned:
 In this lab I was able to create my own GitHub organization and repository. After creating my repository, I cloned it from GitHub to my local system using Terminal. Next I created a file through terminal initialized it and added it to git, then I experimented with *try..catch..finally, throw* and pushed my local changes to my GitHub repo.
 
-### Files from Lab 6!
+### Files from Lab 7!
 
 [ss1](lab07.png)
 [ss2](lab-07.png)
