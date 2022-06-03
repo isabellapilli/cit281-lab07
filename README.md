@@ -22,4 +22,5 @@ In this lab I was able to create my own GitHub organization and repository. Afte
 
 ### Files from Lab 6!
 
-[ss1](lab06.png)
+[ss1](lab07.png)
+[ss2](lab-07.png)
