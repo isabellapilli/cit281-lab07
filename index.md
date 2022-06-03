@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-lab07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LAB 7
 
 ```markdown
-Syntax highlighted code block
+Lab Goals and Outcomes:
 
-# Header 1
-## Header 2
-### Header 3
+1.  Create your own GitHub organization for the CIT Minor
+2.  Create your first GitHub repository
+3.  Clone your GitHub repository to your local system
+4.  Create lab JavaScript file, and initialize folder as a Node.js folder
+5.  Update and commit lab JavaScript file to practice with error handling
+6.  Push your changes to GitHub
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- VS Code
+- GitHub
+- Terminal
 
-### Jekyll Themes
+### What I Learned:
+In this lab I was able to create my own GitHub organization and repository. After creating my repository, I cloned it from GitHub to my local system using Terminal. Next I created a file through terminal initialized it and added it to git, then I experimented with *try..catch..finally, throw* and pushed my local changes to my GitHub repo.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-lab07/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Files from Lab 6!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](lab07.png)
+[ss2](lab-07.png)
